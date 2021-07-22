@@ -10,5 +10,4 @@ function AddNew() {
   DivContainer.appendChild(newDiv);
 }
 
-//this is welcome message
 alert("Welcome to XYZ.com");
