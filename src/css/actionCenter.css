@@ -102,7 +102,6 @@ div.buttons div img:nth-child(2) {
     font-size: small;
 }
 
-/* *Custom Slider* */
 input[type=range] {
     height: 37px;
     -webkit-appearance: none;
