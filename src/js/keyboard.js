@@ -2,11 +2,10 @@ let keyboard = document.getElementById("keyboard");
 let keyboardHider = document.getElementById("keyboardHider");
 let keyboardOpener = document.getElementById("keyboardOpener");
 let keys = document.getElementsByClassName("keys");
-// Keyboard object
 let Keyboard = {
     activeKey: []
 }
-let keyboardToggle = 0; // toggling keyboard when clicking the keyboard icon on taskbar twice
+let keyboardToggle = 0;
 keyboardOpener.addEventListener("click", event => {
     if (keyboardToggle % 2 == 0) {
         keyboard.style.transform = "translateY(0px)";
