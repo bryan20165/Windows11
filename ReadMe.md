@@ -1,4 +1,4 @@
-<p align=center>
+<h1 align=center>
     <img src="https://s4.uupload.ir/files/windows_11_h7xp.png" />
 </p>
 <p align=center>
@@ -11,4 +11,24 @@
 </p>
 
 <h2> Introduction </h2>
-Hello everybody
+
+Hello everyone!
+<br />
+From the name and bio of this project, you can understand what is this project is and what it does!
+
+About a week before I was able to write this project, Windows 11 was released by Microsoft and I was very interested in testing it.
+<br />
+Given that my OS is GNU/Linux and I did not want to install Windows 11 on my system! So I had to try this on virtual machine, but I told my self it might be hard for other people to do same!
+
+So I decided to wtite a **Windows 11 Emulator** and it was finally over after a lot of effort!
+<p align=center>
+    <img src="https://media.giphy.com/media/UV2Szchp9c3dL0DkWe/giphy.gif" />
+</p>
+
+<h2> Features </h2>
+
+  * Ability to the computer on and off!
+  * When you turn on thr system, the screen automatically becomes full screen!
+  * It has installed programs that work:
+    * **VS Code**: You can write your own code in this program! (Also the file of this project are opened in this program by default)
+    * **Microsoft Edge**: You can open different sites in this Microsoft browser!
