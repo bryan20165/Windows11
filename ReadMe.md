@@ -19,7 +19,7 @@ About a week before I was able to write this project, Windows 11 was released by
 <br />
 Given that my OS is GNU/Linux and I did not want to install Windows 11 on my system! So I had to try this on virtual machine, but I told my self it might be hard for other people to do same!
 
-So I decided to wtite a **Windows 11 Emulator** and it was finally over after a lot of effort!
+So I decided to write a **Windows 11 Emulator** and it was finally over after a lot of effort!
 <p align=center>
     <img src="https://media.giphy.com/media/UV2Szchp9c3dL0DkWe/giphy.gif" />
 </p>
